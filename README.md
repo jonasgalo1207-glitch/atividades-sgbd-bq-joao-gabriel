@@ -1,0 +1,1 @@
+# atividades-sgbd-bq-joao-gabriel
